@@ -82,6 +82,15 @@ hr {
   margin: 20px;
   border-radius: 5px;
 }
+
+.img {
+  border: solid 8px #00A8E8;
+  margin: 20px;
+  border-radius: 10px;
+  width: 300px;
+  height: auto;
+  justify-content: center;
+}
 /* Use a media query to add a break point at 1000px: */
 @media screen and (max-width:1000px) {
   .top {
